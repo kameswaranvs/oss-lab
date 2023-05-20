@@ -1,0 +1,5 @@
+Id	name	domain	function
+1	xyz	OS	sum
+2	abc	CN	avg
+3	opq	CN	sum
+4	zzz	OS	avg
